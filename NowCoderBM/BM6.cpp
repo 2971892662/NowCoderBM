@@ -1,4 +1,4 @@
-#include <iostream>
+//BM6 链表中是否有环
 #include <stdlib.h>
 using namespace std;
 struct ListNode {
@@ -18,7 +18,7 @@ bool hasCycle(ListNode* head) {
 			return false;
 		}
 		rear = rear->next;
-		if (rear->next== NULL) {
+		if (rear->next == NULL) {
 			return false;
 		}
 		rear = rear->next;
@@ -29,9 +29,4 @@ bool hasCycle(ListNode* head) {
 	}
 	return false;
 }
-int main() {
-	ListNode* p = (ListNode*)malloc(sizeof(ListNode));
-	p->next = NULL;
-	p->val = -1;
-	cout<<hasCycle(p);
-}
+//使用快慢指针，快指针每次移动两次，慢指针每次移动一次，如存在环二者必能相遇，但相遇节点不一定是环的入口。

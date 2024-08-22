@@ -30,5 +30,11 @@
     <ClCompile Include="BM5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BM6.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
