@@ -145,7 +145,13 @@
     <ClCompile Include="BM5.cpp" />
     <ClCompile Include="BM6.cpp" />
     <ClCompile Include="BM7.cpp" />
+    <ClCompile Include="BM8.cpp" />
+    <ClCompile Include="BM9.cpp" />
+    <ClCompile Include="LiIstNode.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ListNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
