@@ -42,6 +42,7 @@ ListNode* FindFirstCommonNode(ListNode* pHead1, ListNode* pHead2) {
 	}
 	return NULL;
 }
+//公共节点前链长不一定相同，所以从后往前思考
 /*
 int main() {
 	int a[] = {1,2,3};
