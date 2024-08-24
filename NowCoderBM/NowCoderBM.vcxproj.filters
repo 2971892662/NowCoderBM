@@ -87,6 +87,9 @@
     <ClCompile Include="BM45.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Git.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
