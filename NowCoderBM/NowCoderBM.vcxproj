@@ -147,6 +147,10 @@
     <ClCompile Include="BM15.cpp" />
     <ClCompile Include="BM16.cpp" />
     <ClCompile Include="BM2.cpp" />
+    <ClCompile Include="BM23.cpp" />
+    <ClCompile Include="BM24.cpp" />
+    <ClCompile Include="BM25.cpp" />
+    <ClCompile Include="BM28.cpp" />
     <ClCompile Include="BM4.cpp" />
     <ClCompile Include="BM5.cpp" />
     <ClCompile Include="BM6.cpp" />
