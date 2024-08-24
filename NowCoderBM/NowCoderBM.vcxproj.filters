@@ -75,6 +75,18 @@
     <ClCompile Include="BM28.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BM42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM43.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM44.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM45.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
