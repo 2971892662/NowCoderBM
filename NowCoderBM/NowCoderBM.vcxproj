@@ -161,6 +161,8 @@
     <ClCompile Include="BM7.cpp" />
     <ClCompile Include="BM8.cpp" />
     <ClCompile Include="BM10.cpp" />
+    <ClCompile Include="BM88.cpp" />
+    <ClCompile Include="BM91.cpp" />
     <ClCompile Include="Git.cpp" />
     <ClCompile Include="LiIstNode.cpp" />
     <ClCompile Include="main.cpp" />

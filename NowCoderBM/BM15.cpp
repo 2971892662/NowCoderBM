@@ -1,11 +1,9 @@
 //BM15 删除链表中的重复元素I
 //删除给出链表中的重复元素（链表中元素从小到大有序），使链表中的所有元素都只出现一次
+
 #include <stdlib.h>
-struct ListNode {
-    int val;
-    ListNode* next;
-};
-ListNode* deleteDuplicates(ListNode* head) {
+#include "ListNode.h"
+ListNode* deleteDuplicates16(ListNode* head) {
     if (head == NULL || head->next == NULL) {
         return head;
     }

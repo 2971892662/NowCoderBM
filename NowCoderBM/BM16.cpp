@@ -1,13 +1,10 @@
 //BM16 删除链表中重复元素II
 //给出一个升序排序的链表，删除链表中的所有重复出现的元素，只保留原链表中只出现一次的元素。
-#include <stdlib.h>
+#include "ListNode.h"
 #define MaxSize 10005
-struct ListNode {
-    int val;
-    ListNode* next;
-};
+
 //统计每个值的出现次数
-ListNode* deleteDuplicates(ListNode* head) {
+ListNode* deleteDuplicates15(ListNode* head) {
     if (head == NULL || head->next == NULL) {
         return head;
     }

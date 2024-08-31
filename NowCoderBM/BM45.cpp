@@ -1,5 +1,6 @@
 //BM45 滑动窗口的最大值
 //时空复杂度都要求是O（n），暴力破解O(size*n)
+
 #include <vector>
 using namespace std;
 vector<int> maxInWindows(vector<int>& num, int size) {
