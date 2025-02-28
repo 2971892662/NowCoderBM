@@ -2,7 +2,7 @@
 #include <string>
 #include <regex>
 using namespace std;
-string solve(string IP) {
+string solve85(string IP) {
 	//使用正则表达式
 	regex v4("(([1-9]|[1-9][0-9]|1[1-9][1-9]|2[0-4][0-9]|25[0-5])\\.){3}([1-9]|[1-9][0-9]|1[1-9][1-9]|2[0-4][0-9]|25[0-5])");
 	regex v6("((([0-9a-fA-F]){1,4})\\:){7}([0-9a-fA-F]){4}");

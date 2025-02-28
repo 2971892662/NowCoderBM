@@ -108,6 +108,12 @@
     <ClCompile Include="BM85.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BM86.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM97.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
