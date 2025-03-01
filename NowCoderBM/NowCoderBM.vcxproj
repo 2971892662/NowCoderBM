@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BM1.cpp" />
+    <ClCompile Include="BM100.cpp" />
+    <ClCompile Include="BM101.cpp" />
     <ClCompile Include="BM11.cpp" />
     <ClCompile Include="BM12.cpp" />
     <ClCompile Include="BM13.cpp" />
@@ -169,6 +171,7 @@
     <ClCompile Include="BM88.cpp" />
     <ClCompile Include="BM91.cpp" />
     <ClCompile Include="BM97.cpp" />
+    <ClCompile Include="BM99.cpp" />
     <ClCompile Include="Git.cpp" />
     <ClCompile Include="LiIstNode.cpp" />
     <ClCompile Include="main.cpp" />
