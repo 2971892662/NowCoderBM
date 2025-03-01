@@ -160,6 +160,10 @@
     <ClCompile Include="BM44.cpp" />
     <ClCompile Include="BM45.cpp" />
     <ClCompile Include="BM5.cpp" />
+    <ClCompile Include="BM51.cpp" />
+    <ClCompile Include="BM52.cpp" />
+    <ClCompile Include="BM53.cpp" />
+    <ClCompile Include="BM55.cpp" />
     <ClCompile Include="BM6.cpp" />
     <ClCompile Include="BM7.cpp" />
     <ClCompile Include="BM8.cpp" />
