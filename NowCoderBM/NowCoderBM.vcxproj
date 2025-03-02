@@ -164,7 +164,12 @@
     <ClCompile Include="BM52.cpp" />
     <ClCompile Include="BM53.cpp" />
     <ClCompile Include="BM55.cpp" />
+    <ClCompile Include="BM56.cpp" />
+    <ClCompile Include="BM57.cpp" />
+    <ClCompile Include="BM58.cpp" />
     <ClCompile Include="BM6.cpp" />
+    <ClCompile Include="BM60.cpp" />
+    <ClCompile Include="BM61.cpp" />
     <ClCompile Include="BM7.cpp" />
     <ClCompile Include="BM8.cpp" />
     <ClCompile Include="BM10.cpp" />
