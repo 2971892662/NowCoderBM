@@ -150,6 +150,42 @@
     <ClCompile Include="BM61.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BM62.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM63.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM64.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM65.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM66.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM67.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM68.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM69.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM70.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM71.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM73.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BM74.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h">
