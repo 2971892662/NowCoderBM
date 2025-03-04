@@ -20,7 +20,7 @@ void select(string str,int num,int last,vector<string> finalres) {
         str.erase(str.begin() + i);
     }
 }
-失败总结：太复杂了，不如一次完成所有'.'的插入
+失败总结:参数太多，导致太复杂了，不如一次完成所有'.'的插入
 */
 
 
